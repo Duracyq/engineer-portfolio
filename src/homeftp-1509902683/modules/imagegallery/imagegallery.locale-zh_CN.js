@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.fn.imagegallery.defaults.locale, {"closeText":"\u5173\u95ed","counterSeparatorText":"\u7684","defaultTitle":"\u540d\u79f0","fullSizeImage":"\u4ee5\u5168\u5c3a\u5bf8\u67e5\u770b\u56fe\u7247","imageText":"\u56fe\u7247","nextText":"\u4e0b\u4e00\u6b65","prevText":"\u4e4b\u524d\u7684","removeImage":"\u79fb\u9664"});

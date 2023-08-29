@@ -1,0 +1,12 @@
+/* Navigation */
+.pageContentText .navigation ul { background-image: url(../images/blank.gif) }
+.pageContentText .navigation > li { display: inline; zoom: 1; }
+.pageContentText .column .navigation li { display: block; }
+.column li a { zoom: 1; }
+
+/* Header */
+.header-titles { display: inline; zoom: 1 }
+.header-titles > div { white-space: pre; }
+
+/* Form */
+.form-item .form-item-textfield, .form-item .form-item-textarea { width: 95%; }

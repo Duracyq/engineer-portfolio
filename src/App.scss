@@ -1,0 +1,40 @@
+$base-first: #c0c0c0;
+$base-second: #333333;
+$first: #007bff;
+$main-color: #ffffff;
+$second: #ffa200;
+
+body {
+  background-color: $base-first;
+}
+
+.App {
+  display: flex;
+  // justify-content: center;
+  // align-items: center;
+  height: 100vh;
+  background-color: $base-first;
+  .App-layout {
+    text-align: justify;
+    p {
+      margin: 20px;
+    }
+  }
+}
+
+.Navigation {
+  .el {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row; /* Change to vertical layout */
+    justify-content: center;
+    align-items: center;
+
+    li {
+      margin: 10px 10px; /* Adjust spacing between items */
+      color: $base-second;
+    }
+ 
+  }
+}

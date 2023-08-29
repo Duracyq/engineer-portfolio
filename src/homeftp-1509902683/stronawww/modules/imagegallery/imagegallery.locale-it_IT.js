@@ -1,0 +1,1 @@
+jQuery.extend(jQuery.fn.imagegallery.defaults.locale, {"closeText":"Chiudi","counterSeparatorText":"Di","defaultTitle":"Nome","fullSizeImage":"Vedi immagine a dimensione completa","imageText":"Immagine","nextText":"Successivo","prevText":"Precedente","removeImage":"Rimuovi"});
